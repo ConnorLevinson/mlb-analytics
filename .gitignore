@@ -1,0 +1,14 @@
+*.db
+*.sqlite
+*.csv
+__pycache__/
+*.pyc
+.env
+.pybaseball/
+data/*.db
+data/*.csv
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.DS_Store
